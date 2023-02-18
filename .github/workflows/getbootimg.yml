@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V14.0.22.12.26.DEV/miui_CHOPIN_V14.0.22.12.26.DEV_fa06f005d7_13.0.zip
+  ROM_URL: https://hugeota.d.miui.com/V14.0.23.2.13.DEV/miui_XAGA_V14.0.23.2.13.DEV_462a22c479_13.0.zip
   TZ: Asia/Shanghai
 
 jobs:
