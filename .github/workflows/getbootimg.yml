@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V14.0.23.2.13.DEV/miui_XAGA_V14.0.23.2.13.DEV_462a22c479_13.0.zip
+  ROM_URL: https://hugeota.d.miui.com/V14.0.23.8.7.DEV/miui_XAGA_V14.0.23.8.7.DEV_1383f3c8c7_13.0.zip
   TZ: Asia/Shanghai
 
 jobs:
